@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "smartrental3600-main",
+            "cwd": "smartrental3600-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "smartrental3600-main (profile mode)",
+            "cwd": "smartrental3600-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "smartrental3600-main (release mode)",
+            "cwd": "smartrental3600-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
